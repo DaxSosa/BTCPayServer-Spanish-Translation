@@ -73,3 +73,24 @@ Thanks to the BTCPay Server community and all contributors who support this tran
 **ES:**  
 Agradecimientos a la comunidad de BTCPay Server y a todos los colaboradores que apoyan este esfuerzo de traducción.
 
+---
+
+## ⚡ Support | Apoyo
+
+**EN:**  
+If you wish to support this project, you can send a tip using my **Lightning Address**:  
+**dax@btcpay.unsigned503.com**
+
+You can also scan this QR code:  
+![Lightning QR](https://github.com/user-attachments/assets/2f5aecaa-d2a8-4e8a-85c1-c020f0bf7dba)
+
+**ES:**  
+Si deseas apoyar este proyecto, puedes enviar una propina usando mi **Dirección Lightning (dirección de relámpago)**:  
+**dax@btcpay.unsigned503.com**
+
+También puedes escanear este código QR:  
+![Código QR Lightning](https://github.com/user-attachments/assets/2f5aecaa-d2a8-4e8a-85c1-c020f0bf7dba)
+
+
+
+
