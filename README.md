@@ -1,5 +1,5 @@
 # BTCPayServer-Spanish-Translation  
-Translation of BTCPay Server Language JSON File | Traducción del archivo JSON de BTCPay Server
+Translation of BTCPay Server Language JSON File | Traducción del archivo JSON del Idioma del Servidor BTCPay
 
 ## 📝 Description | Descripción
 **EN:**  
