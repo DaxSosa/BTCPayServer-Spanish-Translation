@@ -1,0 +1,115 @@
+# BTCPay Server – Spanish Translation  
+Full Spanish translation file for BTCPay Server.
+
+This repository contains the file "Espanol.json", which includes a complete Spanish translation that can be imported directly into any BTCPay Server instance using the built-in translation system.
+
+---
+
+# 🇬🇧 Instructions – How to Install the Spanish Translation for BTCPay Server
+
+BTCPay Server does not use external JSON files directly. Instead, translations must be added as internal dictionaries inside the BTCPay interface.
+
+Below are the correct installation steps.
+
+---
+
+## Add the Translation Using the BTCPay Server Interface (UI) — Recommended Method
+
+Steps:
+
+1. Log in to your BTCPay Server.  
+2. Navigate to: Server Settings → Translations  
+3. Click "Create" to create a new translation dictionary.  
+4. When the system asks for the dictionary name, you may enter any of the following:
+
+Spanish  
+Espanol  
+es  
+es-ES  
+
+5. Open the file from this repository: Espanol.json  
+6. Copy the ENTIRE content of the file exactly as it is.  
+7. Paste everything into the translation editor (the large text box inside BTCPay).  
+8. Click "Save".  
+9. Click "Select" to activate the translation.  
+10. Reload the BTCPay interface.
+
+Your BTCPay Server will now display the full Spanish translation.
+
+---
+
+## Optional: Manual Dictionary Creation (Without Using the File)
+
+Steps:
+
+1. Go to Server Settings → Translations.  
+2. Click "Create".  
+3. Use any dictionary name such as:
+
+Spanish  
+Espanol  
+es  
+es-ES  
+
+4. Manually translate each entry shown on the left into Spanish on the right.  
+5. Click "Save".  
+6. Click "Select" to activate.
+
+---
+
+# 🇪🇸 Instrucciones – Cómo instalar la traducción al español en BTCPay Server
+
+BTCPay Server no usa archivos JSON externos directamente. Las traducciones deben agregarse como diccionarios internos dentro de la interfaz.
+
+Aquí están los pasos exactos.
+
+---
+
+## Agregar la traducción usando la interfaz (UI) — Método recomendado
+
+Pasos:
+
+1. Inicia sesión en tu BTCPay Server.  
+2. Ve a: Configuración del Servidor → Traducciones  
+3. Haz clic en "Crear".  
+4. Cuando BTCPay pida un nombre para el diccionario, puedes usar cualquiera de los siguientes:
+
+Spanish  
+Espanol  
+es  
+es-ES  
+
+5. Abre el archivo de este repositorio: Espanol.json  
+6. Copia TODO el contenido del archivo sin modificar nada.  
+7. Pégalo dentro del editor de traducciones (el cuadro grande).  
+8. Haz clic en "Guardar".  
+9. Haz clic en "Select" para activar la traducción.  
+10. Recarga BTCPay.
+
+Tu BTCPay ahora mostrará la traducción completa al español.
+
+---
+
+## Opcional: Crear el diccionario manualmente
+
+Pasos:
+
+1. Ve a Configuración del Servidor → Traducciones.  
+2. Haz clic en "Crear".  
+3. Usa uno de estos nombres:
+
+Spanish  
+Espanol  
+es  
+es-ES  
+
+4. Traduce manualmente cada línea que aparece en la columna izquierda.  
+5. Guarda el diccionario.  
+6. Actívalo con "Select".
+
+---
+
+# License  
+This project is released under the Creative Commons – Free Use License.
+
+
